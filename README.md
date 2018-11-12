@@ -7,5 +7,8 @@ my  images
 
 [beinsport2.png](beinsport2.png)
 
+[chadatv.png](chadatv.png)
+
+[aljanoubia.png](aljanoubia.png)
 
 [button.jpg](button.jpg)
