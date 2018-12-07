@@ -12,3 +12,5 @@ my  images
 [aljanoubia.png](aljanoubia.png)
 
 [button.jpg](button.jpg)
+
+[bg.png](bg.png)
